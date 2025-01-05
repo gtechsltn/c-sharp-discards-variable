@@ -1,5 +1,9 @@
 # CSharp Discards Variable
 
+Discards - C# Fundamentals
+
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards
+
 ```
 _ = DateTime.TryParse("02/29/2019", out result);  
 ```
